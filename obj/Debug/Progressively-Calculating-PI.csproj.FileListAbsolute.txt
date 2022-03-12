@@ -1,0 +1,10 @@
+C:\Users\alcea\source\repos\SmallerProjects\Progressively-Calculating-PI\bin\Debug\Progressively-Calculating-PI.exe.config
+C:\Users\alcea\source\repos\SmallerProjects\Progressively-Calculating-PI\bin\Debug\Progressively-Calculating-PI.exe
+C:\Users\alcea\source\repos\SmallerProjects\Progressively-Calculating-PI\bin\Debug\Progressively-Calculating-PI.pdb
+C:\Users\alcea\source\repos\SmallerProjects\Progressively-Calculating-PI\obj\Debug\Progressively-Calculating-PI.csproj.AssemblyReference.cache
+C:\Users\alcea\source\repos\SmallerProjects\Progressively-Calculating-PI\obj\Debug\Progressively_Calculating_PI.Form1.resources
+C:\Users\alcea\source\repos\SmallerProjects\Progressively-Calculating-PI\obj\Debug\Progressively_Calculating_PI.Properties.Resources.resources
+C:\Users\alcea\source\repos\SmallerProjects\Progressively-Calculating-PI\obj\Debug\Progressively-Calculating-PI.csproj.GenerateResource.cache
+C:\Users\alcea\source\repos\SmallerProjects\Progressively-Calculating-PI\obj\Debug\Progressively-Calculating-PI.csproj.CoreCompileInputs.cache
+C:\Users\alcea\source\repos\SmallerProjects\Progressively-Calculating-PI\obj\Debug\Progressively-Calculating-PI.exe
+C:\Users\alcea\source\repos\SmallerProjects\Progressively-Calculating-PI\obj\Debug\Progressively-Calculating-PI.pdb
