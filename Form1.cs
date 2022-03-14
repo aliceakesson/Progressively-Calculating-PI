@@ -20,7 +20,7 @@ namespace Progressively_Calculating_PI
         double amountOfDots = 0;
         double dotsInCircle = 0;
 
-        int safetyMargin = 500;
+        int safetyMargin = 500; // change this to your liking, larger number = slower results but more precise ones 
         int index = 0;
         int k = 0;
 
